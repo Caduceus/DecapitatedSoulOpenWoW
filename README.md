@@ -1,0 +1,2 @@
+# DecapitatedSoulOpenWoW
+Open WoW Project
